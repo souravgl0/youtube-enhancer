@@ -1,0 +1,16 @@
+{
+  "title": "First Addon",
+  "name": "firstaddon",
+  "version": "0.0.1",
+  "description": "Youtube Controller",
+  "main": "index.js",
+  "author": "Sourav Goyal",
+  "engines": {
+    "firefox": ">=20.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
